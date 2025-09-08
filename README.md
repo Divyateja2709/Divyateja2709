@@ -73,7 +73,8 @@ _Tech:_ JavaScript, HTML, CSS, jQuery
 ---
 
 ## 💼 Experience
-- **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit *Desi Meme Creator* & proposed a text→meme engine.
+- **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit *Desi Meme Creator* & proposed a text→meme engine.  
+- **Infosys Springboard 6.0 — Intern (ongoing)** — Training & project-based learning with React + API projects.
 
 ---
 
