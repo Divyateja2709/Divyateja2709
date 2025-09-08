@@ -42,7 +42,7 @@ AI / Full-Stack student — I build web apps, ML prototypes and small IoT demos.
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyateja2709&show_icons=true&theme=transparent" alt="Divya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyateja2709&show_icons=true&hide=contribs&theme=transparent" alt="Divya's GitHub stats" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ AI / Full-Stack student — I build web apps, ML prototypes and small IoT demos.
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Divyateja2709&theme=transparent" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Divyateja2709&theme=transparent&hide_longest_streak=true" alt="Current GitHub Streak" />
   </a>
 </p>
 
@@ -86,10 +86,3 @@ Large language model prompt engineering, productionizing ML with Docker & Kubern
 - Email: indrakantidivyateja@gmail.com  
 - Phone: +91 89783 97554  
 - LinkedIn: https://www.linkedin.com/in/divya-teja-indrakanti-390485361
-
----
-
-#### Quick clone for my main repos:
-```bash
-git clone https://github.com/Divyateja2709/telugu-news-website.git
-git clone https://github.com/Divyateja2709/chedharangam.git
