@@ -24,14 +24,12 @@ AI / Full-Stack student — I build web apps, ML prototypes and small IoT demos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" width="52" alt="streamlit logo"  />
 </div>
 
 <h4 align="center">Databases & Tools</h4>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongo logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
 </div>
 
 <h4 align="center">Data Science & ML</h4>
@@ -51,38 +49,31 @@ AI / Full-Stack student — I build web apps, ML prototypes and small IoT demos.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyateja2709&layout=donut&langs_count=6&theme=transparent" alt="Language Stats">
 </p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Divyateja2709&theme=transparent" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🔥 Featured Projects
-> Quick snapshot of my best demos (live → repo)
 
 ### 🔹 Responsive News App  
 **Live:** https://telugunewstej.vercel.app/ • **Repo:** https://github.com/Divyateja2709/telugu-news-website  
 Responsive news portal using GNews API — categories, keyword search, mobile-first layout.  
-_Tech:_ React, Redux, Styled-Components
+_Tech:_ React, Redux, Styled-Components  
+_Built during Infosys Springboard internship._
 
 ### 🔹 Chedharangam — Web Chess  
 **Live:** https://chedharangam.vercel.app/ • **Repo:** https://github.com/Divyateja2709/chedharangam  
 Browser chess with full move validation, drag-and-drop UI and two-player mode.  
-_Tech:_ JavaScript, HTML, CSS, jQuery
-
-### 🔹 Desi Meme Creator (Streamlit)  
-**Repo:** `desi-meme-creator` (see my GitHub)  
-Streamlit app that generates memes for local dialect captions; prototype for text→meme engine (JESTER).  
-_Tech:_ Python, Streamlit, NLP
-
-### 🔹 IoT Gas Detection Sensor (College Project)  
-**Repo:** `gas-detection-sensor-iot-project`  
-Prototype for home gas alerts using Arduino + cloud.  
-_Tech:_ Arduino, MQTT, Node.js
+_Tech:_ JavaScript, HTML, CSS, jQuery  
 
 ---
 
-## 💼 Experience & Highlights
-- **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit Desi Meme Creator & proposed a text→meme engine.  
-- **AICTE Edunet + Microsoft — AI Internship** — Built a React + Streamlit chatbot for querying PDFs.  
-- **Infosys Springboard 6.0 — Intern (ongoing)** — Training & project track.  
-- **LeetCode:** 250+ problems solved • Multiple hackathon finalist placements
+## 💼 Experience
+- **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit *Desi Meme Creator* & proposed a text→meme engine.
 
 ---
 
@@ -98,8 +89,7 @@ Large language model prompt engineering, productionizing ML with Docker & Kubern
 
 ---
 
-#### If you want to clone my main repos quickly:
+#### Quick clone for my main repos:
 ```bash
 git clone https://github.com/Divyateja2709/telugu-news-website.git
 git clone https://github.com/Divyateja2709/chedharangam.git
-git clone https://github.com/Divyateja2709/gas-detection-sensor-iot-project.git
