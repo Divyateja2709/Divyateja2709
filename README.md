@@ -5,7 +5,7 @@
 
 # Hi, I'm **Divyateja Indrakanti** 👋  
 **B.E. Computer Science (Cybersecurity) — CBIT** • Hyderabad, India  
-AI / Full-Stack student — I build web apps, ML prototypes and small IoT demos.  
+  Cyber security ,AI / Full-Stack student — I build web apps, ML prototypes .  
 
 [📄 Resume](./Divya_teja_resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/divya-teja-indrakanti-390485361) • [📧 indrakantidivyateja@gmail.com](mailto:indrakantidivyateja@gmail.com)
 
@@ -73,13 +73,15 @@ _Tech:_ JavaScript, HTML, CSS, jQuery
 ---
 
 ## 💼 Experience
+- **DELOITTE INTERN** - Working as a Security intern at deloitte - working to keep the Deloitte cyberspace secure.
+
 - **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit *Desi Meme Creator* & proposed a text→meme engine.  
 - **Infosys Springboard 6.0 — Intern (ongoing)** — Training & project-based learning with React + API projects.
 
 ---
 
 ## ✨ What I’m learning
-Large language model prompt engineering, productionizing ML with Docker & Kubernetes, advanced web performance.
+CyberSecurity, productionizing ML with Docker & Kubernetes, advanced web performance.
 
 ---
 
