@@ -1,7 +1,4 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Divyateja2709/count.svg" alt="Visitor's Count" />
-</div>
+
 
 # Hi, I'm **Divyateja Indrakanti** 👋  
 **B.E. Computer Science (Cybersecurity) — CBIT** • Hyderabad, India  
