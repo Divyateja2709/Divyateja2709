@@ -90,5 +90,4 @@ Post-quantum cryptography, advanced threat hunting, productionizing ML with Dock
 
 ## 📫 Reach me
 - Email: indrakantidivyateja@gmail.com  
-- Phone: +91 89783 97554  
 - LinkedIn: https://www.linkedin.com/in/divya-teja-indrakanti-390485361
