@@ -53,34 +53,40 @@
 </p>
 
 ---
-
 ## 🔥 Featured Projects
 
-### 🔹 Responsive News App  
-**Live:** https://telugunewstej.vercel.app/ • **Repo:** https://github.com/Divyateja2709/telugu-news-website  
-Responsive news portal using GNews API — categories, keyword search, mobile-first layout.  
-_Tech:_ React, Redux, Styled-Components  
-_Built during Infosys Springboard internship._
+### 🔹 Hybrid PQC-ECC Secure Communication Framework  
+**Repo:** https://github.com/Divyateja2709/Hybrid-PQC-ECC-Secure-Communication-Framework  
+Quantum-resistant cryptographic framework combining classical ECC (P-256) with post-quantum algorithms (ML-KEM-768, Dilithium-3). Includes homomorphic operations, attack simulation using Qiskit, and full CIA triad protection.  
+_Tech:_ Python, Kyber, Dilithium, Qiskit, AES-256-GCM  
+_Key features:_ Quantum attack simulation (Grover's, Shor's), CRT acceleration, ~3-4KB bundle size  
 
-### 🔹 Chedharangam — Web Chess  
-**Live:** https://chedharangam.vercel.app/ • **Repo:** https://github.com/Divyateja2709/chedharangam  
-Browser chess with full move validation, drag-and-drop UI and two-player mode.  
-_Tech:_ JavaScript, HTML, CSS, jQuery  
+### 🔹 OWASP Honeypot Project (Contributor)  
+**Repo:** https://github.com/Divyateja2709/Honeypot-Project  
+Real-time web application threat detection system. ModSecurity-based honeypots collecting and analyzing attack patterns, integrated with ELK stack and MISP threat intelligence platform.  
+_Tech:_ ModSecurity, ELK Stack, MISP, Python, Docker  
+_Focus:_ Distributed threat intelligence, audit log analysis, attack pattern visualization  
 
 ---
 
 ## 💼 Experience
-- **DELOITTE INTERN** - Working as a Security intern at deloitte - working to keep the Deloitte cyberspace secure.
 
-- **AI Intern — Viswam.AI (IIIT Hyderabad)** — Built the Streamlit *Desi Meme Creator* & proposed a text→meme engine.  
-- **Infosys Springboard 6.0 — Intern (ongoing)** — Training & project-based learning with React + API projects.
+**CYBERSECURITY ENGINEER — Deloitte**  
+_Current_  
+Working to secure Deloitte's cyberspace through threat detection, security engineering, and proactive defense strategies.
+
+**SECURITY ENGINEERING INTERN — Deloitte**  
+_Previous_  
+Gained hands-on experience in cybersecurity operations, threat analysis, and security infrastructure protection.
+
+**AI INTERN — Viswam.AI (IIIT Hyderabad)**  
+Built the Streamlit *Desi Meme Creator* & proposed a text→meme generation engine.
 
 ---
 
-## ✨ What I’m learning
-CyberSecurity, productionizing ML with Docker & Kubernetes, advanced web performance.
+## ✨ What I'm Learning
+Post-quantum cryptography, advanced threat hunting, productionizing ML with Docker & Kubernetes, zero-trust architecture.
 
----
 
 ## 📫 Reach me
 - Email: indrakantidivyateja@gmail.com  
