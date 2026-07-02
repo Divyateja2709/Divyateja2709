@@ -2,7 +2,7 @@
 
 # Hi, I'm **Divyateja Indrakanti** 👋  
 **B.E. Computer Science (Cybersecurity) — CBIT** • Hyderabad, India  
-  Cyber security ,AI / Full-Stack student — I build web apps, ML prototypes .  
+   
 
 [📄 Resume](./Divya_teja_resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/divya-teja-indrakanti-390485361) • [📧 indrakantidivyateja@gmail.com](mailto:indrakantidivyateja@gmail.com)
 
