@@ -4,7 +4,7 @@
 **B.E. Computer Science (Cybersecurity) — CBIT** • Hyderabad, India  
    
 
-[📄 Resume](./Divya_teja_resume.pdf) • [💼 LinkedIn](https://www.linkedin.com/in/divya-teja-indrakanti-390485361) • [📧 indrakantidivyateja@gmail.com](mailto:indrakantidivyateja@gmail.com)
+ • [💼 LinkedIn](https://www.linkedin.com/in/divya-teja-indrakanti-390485361) • [📧 indrakantidivyateja@gmail.com](mailto:indrakantidivyateja@gmail.com)
 
 ---
 
